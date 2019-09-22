@@ -1,2 +1,2 @@
 # omnistack-week
-Aplicação web feita durante a Omnistack-Week da Rocketseat (TIndev)
+Aplicação web feita durante a Omnistack-Week da Rocketseat (Tindev)
