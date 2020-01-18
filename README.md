@@ -1,5 +1,5 @@
 # Tindev
-Tinder para desenvolvedores feito na Omnistack-Week 8 da Rocketseat (https://github.com/Rocketseat).
+Tinder para desenvolvedores feito na Omnistack-Week 8 da [Rocketseat](https://github.com/Rocketseat).
 
 ![Tindev Preview-R](https://i.imgur.com/ZJaQ7jr.gif)
 
